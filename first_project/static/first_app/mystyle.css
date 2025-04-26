@@ -1,0 +1,11 @@
+.page-title {
+    color: rgb(166, 65, 225);
+    font-size: 2em;
+    text-align: center;
+}
+
+.page-content {
+    color: rgb(43, 29, 196);
+    font-size: 1.2em;
+    padding: 10px 20px;
+}
